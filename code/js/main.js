@@ -295,7 +295,7 @@ require([
         if (geometryType === "esriGeometryPoint") {
             newSymbol = {
                 type: "picture-marker",
-                url: "images/PointIconImages/2.png",
+                url: "images/PointIconImages/1.png",
                 width: 20,
                 height: 20
             }
